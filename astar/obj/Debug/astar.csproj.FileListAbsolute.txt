@@ -1,0 +1,8 @@
+c:\users\ktolleshaug\documents\visual studio 2013\Projects\astar\astar\bin\Debug\astar.exe.config
+c:\users\ktolleshaug\documents\visual studio 2013\Projects\astar\astar\obj\Debug\astar.csprojResolveAssemblyReference.cache
+C:\Users\ktolleshaug\OneDrive - MEDASSETS, INC\Projects\astar\astar\bin\Debug\astar.exe.config
+C:\Users\ktolleshaug\OneDrive - MEDASSETS, INC\Projects\astar\astar\bin\Debug\astar.exe
+C:\Users\ktolleshaug\OneDrive - MEDASSETS, INC\Projects\astar\astar\bin\Debug\astar.pdb
+C:\Users\ktolleshaug\OneDrive - MEDASSETS, INC\Projects\astar\astar\obj\Debug\astar.csprojResolveAssemblyReference.cache
+C:\Users\ktolleshaug\OneDrive - MEDASSETS, INC\Projects\astar\astar\obj\Debug\astar.exe
+C:\Users\ktolleshaug\OneDrive - MEDASSETS, INC\Projects\astar\astar\obj\Debug\astar.pdb
